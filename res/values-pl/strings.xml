@@ -780,5 +780,12 @@ Agresywne czuwanie to funkcja, która w takim samym stopniu uniemożliwia aplika
     <string name="settings_card_transparent">Przezroczysty</string>
     <string name="settings_card_none">Żadna</string>
     <string name="theme_customization_systemui_title">Motyw główny</string>
+    <string name="settings_dashboard_oos11">OxygenOS 11 (Domyślny)</string>
+    <string name="settings_dashboard_aosp">AOSP</string>
+    <string name="settings_dashboard">Ikony sekcji ustawień</string>
+
+    <!-- 4G icon -->
+    <string name="show_fourg_icon_title">Ikona 4G</string>
+    <string name="show_fourg_icon_summary">Wyświetlaj 4G w ikonie sygnału zamiast LTE</string>
 
 </resources>
